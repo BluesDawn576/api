@@ -1,31 +1,23 @@
 {
     "data": [{
             "language": "en",
-            "length": 3,
+            "length": 2,
             "notice": [{
-                    "title": "Stop Service",
-                    "text": "The levels statistics service has been stopped support on October 31, 2021. Other content is not affected, and you can still play."
-                },
-                {
                     "title": "Welcome",
-                    "text": "Thanks for playing DawnLine\nThis game is based on the original game\nDancing Line\nNow there are 5 levels (2 collab levels)\n\nWebsite: https://dawnline.bluesdawn.top"
+                    "text": "Thanks for playing DawnLine.\nThis game is based on the original game\nDancing Line.\nNow there are 3 levels.\n\nWebsite: https://dawnline.vercel.app/"
                 },
                 {
-                    "title": "See You Next Time",
-                    "text": "　　Because driven by life and the official game announced on May 4th to stopped. I have made a decision. I will stop any updates about the fanmade. I'm so sorry. All good things must come to an end.\n\nBluesDawn\nAugust 11, 2020"
+                    "title": "GoodBye",
+                    "text": "　　Because the official game announced on May 4th to stopped. I will stop any updates about the fanmade. I'm so sorry. All good things must come to an end.\n\nBluesDawn\nAugust 11, 2020"
                 }
             ]
         },
         {
             "language": "cn",
-            "length": 3,
+            "length": 2,
             "notice": [{
-                    "title": "停止服务公告",
-                    "text": "　　通关数记录系统已于2021年10月31日停止服务。其他内容不受影响，仍可正常游玩。"
-                },
-                {
                     "title": "欢迎",
-                    "text": "　　感谢游玩DawnLine，本游戏是以《跳舞的线》为蓝本制作的饭制游戏\n目前拥有5个关卡(包含2个联合片段)\n\n官网：https://dawnline.bluesdawn.top"
+                    "text": "　　感谢游玩DawnLine，本游戏是以《跳舞的线》为蓝本制作的饭制游戏\n目前拥有3个关卡\n\n官网：https://dawnline.vercel.app/"
                 },
                 {
                     "title": "停更通知",
@@ -35,14 +27,10 @@
         },
         {
             "language": "cntw",
-            "length": 3,
+            "length": 2,
             "notice": [{
-                    "title": "停止服務公告",
-                    "text": "　　通關數記錄系統已於2021年10月31日停止服務。其他內容不受影響，仍可正常遊玩。"
-                },
-                {
                     "title": "歡迎",
-                    "text": "　　感謝遊玩DawnLine，本遊戲是以《跳舞的線》為藍本製作的飯制遊戲\n目前已有5個關卡(包含2個聯合片段)\n\n官網：https://dawnline.bluesdawn.top"
+                    "text": "　　感謝遊玩DawnLine，本遊戲是以「跳舞的線」為藍本製作的飯制遊戲\n目前已有3個關卡\n\n官網：https://dawnline.vercel.app/"
                 },
                 {
                     "title": "停更通知",
