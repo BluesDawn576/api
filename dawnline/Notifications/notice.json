@@ -1,42 +1,31 @@
 {
+    "url": "https://api.bluesdawn.top/dawnline/",
     "data": [{
             "language": "en",
-            "length": 2,
+            "length": 1,
             "notice": [{
-                    "title": "Welcome",
-                    "text": "Thanks for playing DawnLine.\nThis game is based on the original game\nDancing Line.\nNow there are 3 levels.\n\nWebsite: https://dawnline.vercel.app/"
-                },
-                {
-                    "title": "GoodBye",
-                    "text": "　　Because the official game announced on May 4th to stopped. I will stop any updates about the fanmade. I'm so sorry. All good things must come to an end.\n\nBluesDawn\nAugust 11, 2020"
-                }
-            ]
+                "title": "Welcome",
+                "image": "welcome/en.png",
+                "text": "Thanks for playing DawnLine.\nThis game is based on the original game\nDancing Line.\nNow there are 3 levels.\n\nWebsite: https://dawnline.vercel.app/"
+            }]
         },
         {
             "language": "cn",
-            "length": 2,
+            "length": 1,
             "notice": [{
-                    "title": "欢迎",
-                    "text": "　　感谢游玩DawnLine，本游戏是以《跳舞的线》为蓝本制作的饭制游戏\n目前拥有3个关卡\n\n官网：https://dawnline.vercel.app/"
-                },
-                {
-                    "title": "停更通知",
-                    "text": "　　由于生活所迫以及官游5.4停更事件，我将停止任何有关饭制内容的更新，未来的计划也将取消。天下没有不散的宴席，很抱歉做出这种决定。\n\nBluesDawn\n2020年8月11日"
-                }
-            ]
+                "title": "欢迎",
+                "image": "welcome/cn.png",
+                "text": "　　感谢游玩DawnLine，本游戏是以《跳舞的线》为蓝本制作的饭制游戏\n目前拥有3个关卡\n\n官网：https://dawnline.vercel.app/"
+            }]
         },
         {
             "language": "cntw",
-            "length": 2,
+            "length": 1,
             "notice": [{
-                    "title": "歡迎",
-                    "text": "　　感謝遊玩DawnLine，本遊戲是以「跳舞的線」為藍本製作的飯制遊戲\n目前已有3個關卡\n\n官網：https://dawnline.vercel.app/"
-                },
-                {
-                    "title": "停更通知",
-                    "text": "　　由於生活所迫以及官遊5.4停更事件，我將停止任何有關飯制內容的更新，未來的計劃也將取消。天下沒有不散的宴席，很抱歉做出這種決定。 \n\nBluesDawn\n2020年8月11日"
-                }
-            ]
+                "title": "歡迎",
+                "image": "welcome/cntw.png",
+                "text": "　　感謝遊玩DawnLine，本遊戲是以「跳舞的線」為藍本製作的飯制遊戲\n目前已有3個關卡\n\n官網：https://dawnline.vercel.app/"
+            }]
         }
     ]
 }

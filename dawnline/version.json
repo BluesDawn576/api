@@ -1,1 +1,17 @@
-{"date":"2021/7/19","android":{"canver":"1.1.4|1.1.6","en":"Update content\nPerformance optimization\n•Optimized some specific scene freeze problems\n•Upgraded to Unity 2018.4.34\nOther content\n•Fixed known bugs\n•Fixed part of the text content\nSystem requirements have changed\n•The new version only supports arm64 architecture\n•The system requires at least Android 4.4\n","cn":"〓更新内容〓\n▌性能优化\n•优化部分特定场景卡顿的问题\n•引擎升级至Unity 2018.4.34\n▌其他内容\n•修复已知bug\n•修正部分文本内容\n▌系统要求变化\n•新版本仅支持arm64架构\n•系统要求至少Android 4.4\n","cntw":"〓更新內容〓\n▌性能優化\n•優化部分特定場景卡頓的問題\n•引擎升級至Unity 2018.4.34\n▌其他內容\n•修復已知bug\n•修正部分文本內容\n▌系統需求變化\n•新版本僅支持arm64架構\n•系統需求至少Android 4.4\n","version":"1.1.6"},"windows":{"canver":"1.1.4|1.1.5|1.1.6","en":"<color=#ff0000>(Google Drive and Mega are not available for some reason)</color>\nUpdated content\nPerformance optimization\n•Optimized some specific scene freeze issues\n•Upgraded to Unity 2018.4.34\nOthers\n•Fixed known bugs\n•Fixed part of the text content\n","cn":"〓更新内容〓\n▌性能优化\n•优化部分特定场景卡顿的问题\n•引擎升级至Unity 2018.4.34\n▌其他内容\n•修复已知bug\n•修正部分文本内\n容","cntw":"〓更新內容〓\n▌性能優化\n•優化部分特定場景卡頓的問題\n•引擎升級至Unity 2018.4.34\n▌其他內容\n•修復已知bug\n•修正部分文本內容\n","version":"1.1.6"}}
+{
+    "date": "20210719",
+    "android": {
+        "canver": "1.1.4|1.1.6",
+        "en": "Update content\nPerformance optimization\n•Optimized some specific scene freeze problems\n•Upgraded to Unity 2018.4.34\nOther content\n•Fixed known bugs\n•Fixed part of the text content\nSystem requirements have changed\n•The new version only supports arm64 architecture\n•The system requires at least Android 4.4\n",
+        "cn": "〓更新内容〓\n▌性能优化\n•优化部分特定场景卡顿的问题\n•引擎升级至Unity 2018.4.34\n▌其他内容\n•修复已知bug\n•修正部分文本内容\n▌系统要求变化\n•新版本仅支持arm64架构\n•系统要求至少Android 4.4\n",
+        "cntw": "〓更新內容〓\n▌性能優化\n•優化部分特定場景卡頓的問題\n•引擎升級至Unity 2018.4.34\n▌其他內容\n•修復已知bug\n•修正部分文本內容\n▌系統需求變化\n•新版本僅支持arm64架構\n•系統需求至少Android 4.4\n",
+        "version": "1.1.6"
+    },
+    "windows": {
+        "canver": "1.1.4|1.1.5|1.1.6",
+        "en": "<color=#ff0000>(Google Drive and Mega are not available for some reason)</color>\nUpdated content\nPerformance optimization\n•Optimized some specific scene freeze issues\n•Upgraded to Unity 2018.4.34\nOthers\n•Fixed known bugs\n•Fixed part of the text content\n",
+        "cn": "〓更新内容〓\n▌性能优化\n•优化部分特定场景卡顿的问题\n•引擎升级至Unity 2018.4.34\n▌其他内容\n•修复已知bug\n•修正部分文本内\n容",
+        "cntw": "〓更新內容〓\n▌性能優化\n•優化部分特定場景卡頓的問題\n•引擎升級至Unity 2018.4.34\n▌其他內容\n•修復已知bug\n•修正部分文本內容\n",
+        "version": "1.1.6"
+    }
+}
