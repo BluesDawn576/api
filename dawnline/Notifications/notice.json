@@ -5,7 +5,7 @@
             "length": 1,
             "notice": [{
                 "title": "Welcome",
-                "image": "welcome/en.png",
+                "image": "welcome_en.png",
                 "text": "Thanks for playing DawnLine.\nThis game is based on the original game\nDancing Line.\nNow there are 3 levels.\n\nWebsite: https://dawnline.vercel.app/"
             }]
         },
@@ -14,7 +14,7 @@
             "length": 1,
             "notice": [{
                 "title": "欢迎",
-                "image": "welcome/cn.png",
+                "image": "welcome_cn.png",
                 "text": "　　感谢游玩DawnLine，本游戏是以《跳舞的线》为蓝本制作的饭制游戏\n目前拥有3个关卡\n\n官网：https://dawnline.vercel.app/"
             }]
         },
@@ -23,7 +23,7 @@
             "length": 1,
             "notice": [{
                 "title": "歡迎",
-                "image": "welcome/cntw.png",
+                "image": "welcome_cntw.png",
                 "text": "　　感謝遊玩DawnLine，本遊戲是以「跳舞的線」為藍本製作的飯制遊戲\n目前已有3個關卡\n\n官網：https://dawnline.vercel.app/"
             }]
         }
