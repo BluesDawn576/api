@@ -1,5 +1,5 @@
 {
-    "date": "20210719",
+    "date": "20210805",
     "android": {
         "canver": "1.1.4|1.1.6",
         "en": "Update content\nPerformance optimization\n•Optimized some specific scene freeze problems\n•Upgraded to Unity 2018.4.34\nOther content\n•Fixed known bugs\n•Fixed part of the text content\nSystem requirements have changed\n•The new version only supports arm64 architecture\n•The system requires at least Android 4.4\n",
