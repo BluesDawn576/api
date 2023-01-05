@@ -1,1 +1,59 @@
-{"url":"https://api.bluesdawn.top/dawnline/","data":[{"language":"en","length":3,"notice":[{"title":"Dancing Line has returned","image":"en_dl.jpg","md5":"33d57d59c41435825ea2f2340057f693","text":"2016.12.12 Published the game.\n2020.05.04 Stop updating the game.\n2022.12.12 The 6th Anniversary Live announces that <color=#f0d52d>DANCING LINE WILL CONTINUE TO UPDATE</color>.\nThis is not a end but a new beginning.\n\nBilibili: https://www.bilibili.com/video/BV1Q84y1t7nu/"},{"title":"Project will be remade","image":"","md5":"","text":"This project will be remade. The date has yet to be confirmed."},{"title":"Welcome","image":"","md5":"","text":"Thanks for playing DawnLine.\nThis game is based on the original game\nDancing Line.\nNow there are 3 levels.\n\nWebsite: https://dawnline.bluesdawn.top/"}]},{"language":"cn","length":3,"notice":[{"title":"跳舞的线 复活","image":"cn_dl.jpg","md5":"631d470347dadc1fba1a83901317ec08","text":"2016.12.12 游戏发行\n2020.05.04 遗憾停更\n2022.12.12 六周年直播宣布 <color=#f0d52d>跳舞的线将恢复关卡更新</color>\n这不是结束，而是新的开始\n\nB站直播回放：https://www.bilibili.com/video/BV1Q84y1t7nu/"},{"title":"项目重制决定","image":"","md5":"","text":"该项目将会进行重制，时间待定"},{"title":"欢迎","image":"","md5":"","text":"　　感谢游玩DawnLine，本游戏是以《跳舞的线》为蓝本制作的饭制游戏\n目前拥有3个关卡\n\n官网：https://dawnline.bluesdawn.top/"}]},{"language":"cntw","length":3,"notice":[{"title":"跳舞的線 復活","image":"cntw_dl.jpg","md5":"f0c1f9d35b1c14087f756569320d097d","text":"2016.12.12 遊戲發行\n2020.05.04 遺憾停更\n2022.12.12 六周年直播宣佈 <color=#f0d52d>跳舞的線將恢復關卡更新</color>\n這不是結束，而是新的開始\n\nbilibili直播回放：https://www.bilibili.com/video/BV1Q84y1t7nu/"},{"title":"項目重製決定","image":"","md5":"","text":"該項目將會進行重製，時間待定"},{"title":"歡迎","image":"","md5":"","text":"　　感謝遊玩DawnLine，本遊戲是以「跳舞的線」為藍本製作的飯制遊戲\n目前已有3個關卡\n\n官網：https://dawnline.bluesdawn.top/"}]}]}
+{
+    "url": "https://api.bluesdawn.top/dawnline/",
+    "data": [
+        {
+            "language": "en",
+            "length": 2,
+            "notice": [
+                {
+                    "title": "Project will be remade",
+                    "image": "",
+                    "md5": "",
+                    "text": "This project will be remade. The date has yet to be confirmed."
+                },
+                {
+                    "title": "Welcome",
+                    "image": "",
+                    "md5": "",
+                    "text": "Thanks for playing DawnLine.\nThis game is based on the original game\nDancing Line.\nNow there are 3 levels.\n\nWebsite: https://dawnline.bluesdawn.top/"
+                }
+            ]
+        },
+        {
+            "language": "cn",
+            "length": 2,
+            "notice": [
+                {
+                    "title": "项目重制决定",
+                    "image": "",
+                    "md5": "",
+                    "text": "该项目将会进行重制，时间待定"
+                },
+                {
+                    "title": "欢迎",
+                    "image": "",
+                    "md5": "",
+                    "text": "　　感谢游玩DawnLine，本游戏是以《跳舞的线》为蓝本制作的饭制游戏\n目前拥有3个关卡\n\n官网：https://dawnline.bluesdawn.top/"
+                }
+            ]
+        },
+        {
+            "language": "cntw",
+            "length": 2,
+            "notice": [
+                {
+                    "title": "項目重製決定",
+                    "image": "",
+                    "md5": "",
+                    "text": "該項目將會進行重製，時間待定"
+                },
+                {
+                    "title": "歡迎",
+                    "image": "",
+                    "md5": "",
+                    "text": "　　感謝遊玩DawnLine，本遊戲是以「跳舞的線」為藍本製作的飯制遊戲\n目前已有3個關卡\n\n官網：https://dawnline.bluesdawn.top/"
+                }
+            ]
+        }
+    ]
+}
